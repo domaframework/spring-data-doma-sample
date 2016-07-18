@@ -1,0 +1,1 @@
+select * from person where last_name = /*name*/''
